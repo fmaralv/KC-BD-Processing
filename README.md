@@ -1,5 +1,8 @@
-# KC-Processing
+# KC-BD-Processing
 Repositorio para practica de KeepCoding Modulo Procesamiento
+
+Info: Proyecto de IntellJ con las clases que contienen las soluciones de las 
+diferentrs fases
 
 Code:
 - /home/kc/IdeaProjects/Test-Scala/src/main/scala/bdproc/common/Utilities.scala
